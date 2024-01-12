@@ -16,9 +16,9 @@
 
 [Tasks](./TASKS.md)
 
-### Current Task: CRS-001 - Create placeholder api endpoints for remoteStorage
+### Current Task: CRS-005 - Implement PUT/DELETE file restriction
 
-[Link](./TASKS.md#crs-001---create-placeholder-api-endpoints-for-remotestorage)
+[Link](./TASKS.md#crs-005---implement-putdelete-file-restriction)
 
 ## Tech Debt
 

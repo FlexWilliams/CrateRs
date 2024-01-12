@@ -3,7 +3,7 @@
 [Back to Project Board](./BOARD.md)
 
 
-## CRS-001 - Create placeholder api endpoints for remoteStorage
+## CRS-001 - Create placeholder api endpoints for remoteStorage (COMPLETED)
 
 ### Description:
 
@@ -37,7 +37,7 @@ See [here for the latest spec](https://github.com/remotestorage/spec/blob/main/r
 
 ^^ ( same as description)
 
-Verified By `<>` on: ``
+Verified By `<work.alexwilliams@proton.me>` on: `1/11/2024`
 
 <br>
 

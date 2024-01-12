@@ -37,7 +37,7 @@ See [here for the latest spec](https://github.com/remotestorage/spec/blob/main/r
 
 ^^ ( same as description)
 
-Verified By `<work.alexwilliams@proton.me>` on: `1/11/2024`
+Verified By `work.alexwilliams@proton.me` on: `1/11/2024`
 
 <br>
 

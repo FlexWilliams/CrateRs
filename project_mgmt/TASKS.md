@@ -75,3 +75,33 @@ Implement API endpoints created [here](#crs-001---create-placeholder-api-endpoin
 Verified By `<>` on: ``
 
 <br>
+
+## CRS-004 - Dockerize CrateRs
+
+### Description:
+
+Do the needful of dockerizing por favor (i.e. create container deployable to fly.io)
+
+### Acceptance Criteria:
+
+^^ ( same as description)
+
+Verified By `<>` on: ``
+
+<br>
+
+## CRS-005 - Implement PUT/DELETE file restriction
+
+### Description:
+
+If the path ends in a `/`, then the path is considered a folder and cannot be added/deleted, only files.
+
+Return a 400 with the explanation as to why.
+
+### Acceptance Criteria:
+
+^^ ( same as description)
+
+Verified By `<>` on: ``
+
+<br>

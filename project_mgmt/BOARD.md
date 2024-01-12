@@ -16,9 +16,9 @@
 
 [Tasks](./TASKS.md)
 
-### Current Task: CRS-005 - Implement PUT/DELETE file restriction
+### Current Task: CRS-004 - Dockerize CrateRs
 
-[Link](./TASKS.md#crs-005---implement-putdelete-file-restriction)
+[Link](./TASKS.md#crs-004---dockerize-craters)
 
 ## Tech Debt
 

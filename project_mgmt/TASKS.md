@@ -3,7 +3,7 @@
 [Back to Project Board](./BOARD.md)
 
 
-## CRS-001 - Create placeholder api endpoints for remoteStorage (COMPLETED)
+## (COMPLETED) CRS-001 - Create placeholder api endpoints for remoteStorage
 
 ### Description:
 
@@ -66,7 +66,7 @@ Verified By `<>` on: ``
 
 ### Description:
 
-Implement API endpoints created [here](#crs-001---create-placeholder-api-endpoints-for-remotestorage).
+Implement API endpoints created [here](#completed-crs-001---create-placeholder-api-endpoints-for-remotestorage).
 
 ### Acceptance Criteria:
 
@@ -90,7 +90,7 @@ Verified By `<>` on: ``
 
 <br>
 
-## CRS-005 - Implement PUT/DELETE file restriction
+## (COMPLETED) CRS-005 - Implement PUT/DELETE file restriction
 
 ### Description:
 
@@ -102,6 +102,6 @@ Return a 400 with the explanation as to why.
 
 ^^ ( same as description)
 
-Verified By `<>` on: ``
+Verified By `work.alexwilliams@proton.me` on: `1/12/2024`
 
 <br>

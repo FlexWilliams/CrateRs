@@ -16,9 +16,9 @@
 
 [Tasks](./TASKS.md)
 
-### Current Task: CRS-004 - Dockerize CrateRs
+### Current Task: CRS-003 - Implement API (i.e., directory/file/object operations)
 
-[Link](./TASKS.md#crs-004---dockerize-craters)
+[Link](./TASKS.md#crs-003---implement-api-ie-directoryfileobject-operations)
 
 ## Tech Debt
 

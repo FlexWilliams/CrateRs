@@ -76,7 +76,7 @@ Verified By `<>` on: ``
 
 <br>
 
-## CRS-004 - Dockerize CrateRs
+## (COMPLETED) CRS-004 - Dockerize CrateRs (non volume)
 
 ### Description:
 
@@ -86,7 +86,11 @@ Do the needful of dockerizing por favor (i.e. create container deployable to fly
 
 ^^ ( same as description)
 
-Verified By `<>` on: ``
+Verified By `work.alexwilliams@proton.me` on: `1/12/2024`
+
+Verification notes:
+- Verified on windows 11 running podman
+- Verified on ubuntu 22 LTS running docker
 
 <br>
 
@@ -103,5 +107,21 @@ Return a 400 with the explanation as to why.
 ^^ ( same as description)
 
 Verified By `work.alexwilliams@proton.me` on: `1/12/2024`
+
+<br>
+
+## CRS-006 - Add volume to CrateRs Docker container
+
+### Description:
+
+Now that a docker container exists, we need to add a volume and integrate it into the rocket request handlers to use volume as storage.
+
+### Acceptance Criteria:
+
+^^ ( same as description)
+
+Verified By `` on: ``
+
+Verification notes:
 
 <br>

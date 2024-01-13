@@ -32,6 +32,19 @@ curl -XGET 'http://127.0.0.1:8000'
 HTTP Repsonse Body: `Hello, from CrateRs!`
 
 <br>
+<br>
+<br>
+
+### Building & Running with Docker
+
+In a command prompt, run:
+```
+./build-and-run.sh
+```
+
+<br>
+<br>
+<br>
 
 ### API Requests:
 

@@ -1,4 +1,3 @@
 #!/bin/bash
 
-cargo clean && \
-docker build --tag=crate-rs:latest -f Dockerfile
+podman clean && docker build --tag=crate-rs:latest -f Dockerfile

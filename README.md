@@ -1,4 +1,4 @@
-# CrateRs
+# CrateRs (W.I.P)
 
 [An attempt at] A [remoteStorage](https://remotestorage.io/) web server written in rust.
 
@@ -37,9 +37,14 @@ HTTP Repsonse Body: `Hello, from CrateRs!`
 
 ### Building & Running with Docker
 
-In a command prompt, run:
+To build:
 ```
-./build-and-run.sh
+cargo clean && docker build --tag=crate-rs:latest -f Dockerfile
+```
+
+To run:
+```
+docker run -it --rm -p 8000:8000 -e ROCKET_PROFILE='docker' crate-rs
 ```
 
 <br>
